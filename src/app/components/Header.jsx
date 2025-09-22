@@ -19,12 +19,11 @@ const Header = () => {
 
   const navigationLinks = [
     { href: '#home', label: 'Home' },
-    { href: '#packages', label: 'Safari Packages' },
-    { href: '#destinations', label: 'Destinations' },
     { href: '#gallery', label: 'Gallery' },
-    { href: '#about', label: 'About Us' },
-    { href: '#reviews', label: 'Reviews' },
-    { href: '#contact', label: 'Contact' }
+    { href: '#team', label: 'Team' },
+    { href: '#book-now', label: 'Book Now' },
+    { href: '#blog', label: 'Blog' },
+    { href: '#store', label: 'Store' }
   ]
 
   const toggleMenu = () => {

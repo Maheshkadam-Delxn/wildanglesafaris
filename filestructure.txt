@@ -1,0 +1,29 @@
+|-- .gitignore
+|-- eslint.config.mjs
+|-- jsconfig.json
+|-- next.config.mjs
+|-- package-lock.json
+|-- package.json
+|-- postcss.config.mjs
+|-- public
+    |-- dd.mp4
+    |-- file.svg
+    |-- globe.svg
+    |-- next.svg
+    |-- onepeice.mp4
+    |-- PixVerse_V5_Image_Text_360P_Cinematic_drone_fo.mp4
+    |-- vercel.svg
+    |-- window.svg
+|-- README.md
+|-- src
+    |-- app
+        |-- components
+            |-- Contact.jsx
+            |-- Header.jsx
+            |-- Hero.jsx
+            |-- Packages.jsx
+            |-- TrustSection.jsx
+        |-- favicon.ico
+        |-- globals.css
+        |-- layout.js
+        |-- page.js
