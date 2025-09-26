@@ -20,8 +20,8 @@ const Header = () => {
   const navigationLinks = [
     { href: '#home', label: 'Home' },
     { href: '#gallery', label: 'Gallery' },
-    { href: '#team', label: 'Team' },
-    { href: '#book-now', label: 'Book Now' },
+    { href: '/Team', label: 'Team' },
+    { href: '/BookNow', label: 'Book Now' },
     { href: '#blog', label: 'Blog' },
     { href: '#store', label: 'Store' }
   ]
